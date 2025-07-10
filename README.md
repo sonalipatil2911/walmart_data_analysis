@@ -55,13 +55,17 @@ project_walmart/
 **<h3>🚀 Getting Started</h3>**
 
 - Clone the repository:
-gh repo clone sonalipatil2911/walmart_data_analysis
+git clone https://github.com/sonalipatil2911/walmart_data_analysis/project_walmart.git
+
 - Set up your virtual environment:
 python -m venv my_env
 source my_env/bin/activate  # or .\my_env\Scripts\activate on Windows
+
 - Install dependencies:
 pip install -r requirements.txt
+
 - Update your PostgreSQL credentials in the connection string.
+
 - Run notebooks and explore insights!
 
 
