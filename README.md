@@ -55,7 +55,7 @@ project_walmart/
 **<h3>🚀 Getting Started</h3>**
 
 - Clone the repository:
-git clone https://github.com/sonalipatil2911/walmart_data_analysis/project_walmart.git
+git clone https://github.com/sonalipatil2911/walmart_data_analysis
 
 - Set up your virtual environment:
 python -m venv my_env
